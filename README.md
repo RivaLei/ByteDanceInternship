@@ -1,2 +1,2 @@
-# ByteDanccInternship
+# ByteDanceInternship
 Sample reeels By riva
